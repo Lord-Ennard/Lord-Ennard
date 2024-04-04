@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lord Ennard
+- 👋 Oh Hello da, I’m Lord Ennard
 - 👀 Work in progress
 - 🌱 Systems Enginnering student
 - 💞️ Currently learning english
