@@ -1,8 +1,8 @@
 <div align="center">
   <img alt="Coding" width="1100" height="100" src="https://i.gifer.com/origin/cf/cf95f54d66e86b735a6a549deb92c993_w200.gif">
 </div>
-<h1 align="center">👋 Oh Hello da, I’m Lord Ennard</h1>
-<h3 align="center">Systems Enginnering student | Work in progress | AMGTG</h3>
+<h1 align="center">👋 Oh Hello da, I’m Lord Ennard 🇵🇪</h1>
+<h3 align="center">💻 Systems Enginnering student | 🔥 Work in progress | ✝︎ AMGTG</h3>
 <img align="right" alt="Kurumi" width="500" src="https://gifdb.com/images/high/kurumi-tokisaki-raising-her-head-q63qxubeurg654cw.gif">
 
 <h3 align="left">Connect with me:</h3>
