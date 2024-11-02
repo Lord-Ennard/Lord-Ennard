@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Coding" width="1100" height="100" src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif">
+  <img alt="Coding" width="1100" height="100" src="https://i.gifer.com/origin/cf/cf95f54d66e86b735a6a549deb92c993_w200.gif">
 </div>
 <h1 align="center">👋 Oh Hello da, I’m Lord Ennard</h1>
 <h3 align="center">Systems Enginnering student | Work in progress | AMGTG</h3>
