@@ -2,7 +2,7 @@
 <h1 align="center">👋 Oh Hello da, I’m Lord Ennard 🇵🇪</h1>
 <h3 align="center">💻 Systems Enginnering Student | 🔥 Work in progress | ✝︎ AMGTG</h3>
 <img align="right" alt="Kurumi" width="500" src="https://gifdb.com/images/high/kurumi-tokisaki-raising-her-head-q63qxubeurg654cw.gif">
-
+<h4>"The worst enemy you can meet will always be yourself"</h4>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/andreschurampi14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/andreschurampi14" height="30" width="40" /></a>
